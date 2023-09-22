@@ -46,8 +46,8 @@ The dataset includes the following features:
 The quality-level feature is used as the target variable which was derived from the quality feature in the original dataset
 
 ## Installation
+   Clone the repository:
+- git clone https://github.com/imabiodun/Red_Wine_Model
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/imabiodun/wine_data_sci/
+## Evaluation:
+   Evaluate the model's performance using appropriate metrics such as accuracy, Confusion Matrix.
