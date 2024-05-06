@@ -18,8 +18,6 @@ This project implements a machine learning model to predict the quality of red w
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Dataset
@@ -45,9 +43,6 @@ The dataset includes the following features:
 
 The quality-level feature is used as the target variable which was derived from the quality feature in the original dataset
 
-## Installation
-   Clone the repository:
-- git clone https://github.com/imabiodun/Red_Wine_Model
 
 ## Evaluation:
    Evaluate the model's performance using appropriate metrics such as accuracy, Confusion Matrix.
